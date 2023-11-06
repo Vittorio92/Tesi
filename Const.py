@@ -1,0 +1,6 @@
+IMAGE = 'image'
+IMG = 'img'
+TABLE = 'table'
+TAB = 'tab'
+TEXT = 'text'
+TXT = 'txt'
