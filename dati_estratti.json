@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "654816a068ef977299eb21d6"
+  },
+  "FATTURA1.pdf": {
+    "text": [
+      "INDIRIZZO\nVia Roma, 1\nCITTA'\n24100 - Bergamo (Bg)\nPARTITA IVA\n1234567890\nCOD. FISC:\n RSS MRA 90A01 A794T\nDATA\n02.01.17\nFATTURA \n1\nRossi Mario",
+      "CLIENTE\nBianchi Giovanni\nVia Milano, 2\n24035 - Curno (Bg)\nPi: 09876543210\nCF: BNC GNN 80E01 E874G",
+      "[42]\nIMPONIBILE\n1.000,00\n           \n-\n                     \nTOTALE\n€ 1.000,00"
+    ],
+    "image": [],
+    "table": [
+      [
+        {
+          "DESCRIZIONE PRESTAZIONI IMPORTO": "Lavori di manodopera presso vostro cantiere sito in ……….\n“operazione senza addebito di IVA soggetta al regime del Reverse Charge, non soggetta\nIVA ai sensi dell’art. 17 comma 6 lett. A DPR 633/72, modificato dalla legge 248/06 -\nl'applicazione dell'iva è a carico del destinatario”",
+          "Col1": "1.000,00"
+        }
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654816a068ef977299eb21d8"
+  },
+  "FATTURA2.pdf": {
+    "text": [
+      "INDIRIZZO\nVia Roma, 1\nCITTA'\n24100 - Bergamo (Bg)\nPARTITA IVA\n1234567890\nCOD. FISC:\n RSS MRA 90A01 A794T\nDATA\n02.01.17\nFATTURA \n1\nRossi Mario",
+      "CLIENTE\nCondominio A\nVia Milano, 2\n24035 - Curno (Bg)\nPi: 09876543210\nCF: 85123456789",
+      "IMPONIBILE\n1.000,00\n           \nIVA 22%\n220,00\n              \nTOTALE\n€ 1.220,00\nRitenuta d'acconto 4%\n40,00\nNetto a pagare\n€ 1.180,00"
+    ],
+    "image": [],
+    "table": [
+      [
+        {
+          "DESCRIZIONE PRESTAZIONI IMPORTO": "Sgombero neve",
+          "Col1": "1.000,00"
+        }
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654816a068ef977299eb21da"
+  },
+  "FATTURA3.pdf": {
+    "text": [
+      "INDIRIZZO\nVia Roma, 1\nCITTA'\n24100 - Bergamo (Bg)\nPARTITA IVA\n1234567890\nCOD. FISC:\n RSS MRA 90A01 A794T\nDATA\n02.01.17\nFATTURA \n1\nRossi Mario",
+      "CLIENTE\nBianchi Giovanni\nVia Milano, 2\n24035 - Curno (Bg)\nPi: 09876543210\nCF: BNC GNN 80E01 E874G",
+      "[42]\nIMPONIBILE\n1.000,00\n           \n-\n                     \nTOTALE\n€ 1.000,00"
+    ],
+    "image": [],
+    "table": [
+      [
+        {
+          "DESCRIZIONE PRESTAZIONI IMPORTO": "Pulizia locali\n“operazione senza addebito di IVA soggetta al regime del Reverse Charge, non soggetta\nIVA ai sensi dell’art. 17 comma 6 lett. A-TER DPR 633/72, modificato dalla legge 248/06 -\nl'applicazione dell'iva è a carico del destinatario”",
+          "Col1": "1.000,00"
+        }
+      ]
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "654816a068ef977299eb21dc"
+  },
+  "FATTURA4.pdf": {
+    "text": [
+      "INDIRIZZO\nVia Roma, 1\nCITTA'\n24100 - Bergamo (Bg)\nPARTITA IVA\n1234567890\nCOD. FISC:\n RSS MRA 90A01 A794T\nDATA\n02.01.17\nFATTURA \n1\nRossi Mario",
+      "CLIENTE\nBianchi Giovanni\nVia Milano, 2\n24035 - Curno (Bg)\nCF: BNC GNN 80E01 E874G",
+      "IMPONIBILE PRESTAZIONE\n1.000,00\n                      \nIVA 22%\n220,00\n                          \nTOTALE\n€ 1.220,00"
+    ],
+    "image": [],
+    "table": [
+      [
+        {
+          "Col0": "Provvigioni per intermediazione in riferimento alla pratica\n_____________________________________________",
+          "DESCRIZIONE PRESTAZIONI IMPORTO": null,
+          "Col2": "1 .000,00"
+        }
+      ]
+    ]
+  }
+}]
